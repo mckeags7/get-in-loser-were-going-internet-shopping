@@ -18,6 +18,7 @@ The user should clone the repository from GitHub. This application requires Node
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
+You can view my walk-through on <a href = "https://www.loom.com/share/0cc63b9f3592405ca89e5373f5f4081a">Loom</a>
 
 ## License 
 This project is licensed under MIT
